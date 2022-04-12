@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @aksh1804
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Task
+Given an integer, , perform the following conditional actions:
 
-<!---
-aksh1804/aksh1804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-still working nothing started
+If  is odd, print Weird
+If  is even and in the inclusive range of  to , print Not Weird
+If  is even and in the inclusive range of  to , print Weird
+If  is even and greater than , print Not Weird
+Input Format
+
+A single line containing a positive integer, .
+
+Constraints
+
+Output Format
+
+Print Weird if the number is weird. Otherwise, print Not Weird.
+
+Sample Input 0
